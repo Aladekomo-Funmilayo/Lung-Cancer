@@ -14,3 +14,10 @@ Key insights include:
   4. Relationship between smoking and survival
   5. Relationship between family history and survival
   6. Treatment effectiveness
+
+Tools used; Microsft Excel, Pivot Table and Pivot Chart for Visualization
+
+Explore the full project here: https://github.com/Aladekomo-Funmilayo/Lung-Cancer.git
+
+I'm open to feedbacks and collaboration
+

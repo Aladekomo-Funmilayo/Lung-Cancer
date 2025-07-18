@@ -1,3 +1,18 @@
 I'm excited to share my second analysis built in Excel.
 
 Taking a step further in my career as a data analyst, here's a medical dataset and inclusive are insights for decision making.
+
+Metrics on Insights
+1. Overall survival rate is 22%
+2. Most common case stage according to this dataset is "Stage III"
+3. Highest survival by treatment effectiveness is "Surgery and Chemotherapy"
+4. Worst survival by smkoing is "Never Smoked", possibly due to late diagnosis or other hidden factors
+5. Age group with highest survival is "Young Adult"
+6. Age group with lowest survival is "Advanced Adults"
+
+Decision making derieved from insights.
+  1. Early dectection is important; recommendation, implementationof awareness campaign and early screening program
+  2. Rethink risk profile, even non-smokers show poor survival in this dataset; recommendation. expand diagnosis focus beyond smokers, consider, genetics, environment, e.t.c
+  3. Proritize effective treatment, Chemotherapy and surgery shows the highest survival rate; recommendation, prioritizing availability or integration of equipments and surgeons.
+  4. Age sensitivity intervention, according to this dataset, "Advanced Adults" have the lowest survival, possibly due to Co-morbidity ( the similaneous presence of two or more medical conditions); recommendation, launch age focused screening and treatment focus
+  5. Resource allocation, use the pattern of the most effective treatment to allocate oncology resouces.

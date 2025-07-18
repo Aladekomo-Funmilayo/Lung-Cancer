@@ -1,4 +1,4 @@
-This dashboard was built on Microsoft Excel using Lung Cancer database to derieve insight .
+This dashboard was built on Microsoft Excel using Lung Cancer database to generate insight .
 
 Key metrics include:
   1. Demographics
@@ -10,12 +10,12 @@ Key metrics include:
 Key insights include:
   1. Most common age group
   2. Gender distribution
-  3. Stages of diagosis
+  3. Stages of diagnosis
   4. Relationship between smoking and survival
   5. Relationship between family history and survival
   6. Treatment effectiveness
 
-Tools used; Microsft Excel, Pivot Table and Pivot Chart for Visualization
+Tools used; Microsoft Excel, Pivot Table and Pivot Chart for Visualization
 
 Explore the full project here: https://github.com/Aladekomo-Funmilayo/Lung-Cancer.git
 
